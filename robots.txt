@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://driosruedas.github.io/sitemap.xml
+Sitemap: https://driosruedas.github.io/david-rios-ruedas-audiovisuales/sitemap.xml
